@@ -2,7 +2,7 @@
 
 Submitted by: **Haida Makouangou**
 
-**Name of your app** is an app that allows users to test their knowledge by answerring trivia questions fetched from the Open Trivia Database API 
+Trivia Appis an app that allows users to test their knowledge by answering trivia questions fetched from the Open Trivia Database API 
 
 Time spent: **48** hours spent in total
 
@@ -33,22 +33,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.loom.com/share/0e8960e946654d199193d4662541f08c?sid=9a8c3fb8-9fdb-4f0e-8ca0-dea63e9625aa) .
 
-## Notes
 
-Describe any challenges encountered while building the app.
+## 📄 License
 
-## License
+© 2025 Haida Makouangou  
+Licensed under the [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0).  
+Use of this project is permitted in compliance with the License.  
+Distributed on an "AS IS" basis, without warranties or guarantees.
 
-    Copyright [2025] [Haida Makouangou of copyright owner]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
